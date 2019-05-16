@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Giris Yap
+  - Kayit Ol
+  - Ana Panel
+  - Ad Soyad
+  - "Kullan\u0131c\u0131 Ad\u0131"
+  - "\u015Eifre"
+  - "Tekrar \u015Eifre"
+  - Ozne
+  - Nesne
+  - yuklem
+  - "kullan\u0131c\u0131"
+  - 1
+  - 2
+  - asagi
+  - yukari
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

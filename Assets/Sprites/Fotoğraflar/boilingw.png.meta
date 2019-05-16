@@ -1,0 +1,1239 @@
+fileFormatVersion: 2
+guid: ee7cac0612a3e2948a64deeb5207af99
+timeCreated: 1540155764
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ayse_0
+    21300002: ayse_1
+    21300004: ayse_2
+    21300006: ayse_3
+    21300008: ayse_4
+    21300010: ayse_5
+    21300012: ayse_6
+    21300014: ayse_7
+    21300016: ayse_8
+    21300018: ayse_9
+    21300020: ayse_10
+    21300022: ayse_11
+    21300024: ayse_12
+    21300026: ayse_13
+    21300028: ayse_14
+    21300030: ayse_15
+    21300032: ayse_16
+    21300034: ayse_17
+    21300036: ayse_18
+    21300038: ayse_19
+    21300040: ayse_20
+    21300042: ayse_21
+    21300044: ayse_22
+    21300046: ayse_23
+    21300048: ayse_24
+    21300050: ayse_25
+    21300052: ayse_26
+    21300054: ayse_27
+    21300056: ayse_28
+    21300058: ayse_29
+    21300060: ayse_30
+    21300062: ayse_31
+    21300064: ayse_32
+    21300066: ayse_33
+    21300068: ayse_34
+    21300070: ayse_35
+    21300072: ayse_36
+    21300074: ayse_37
+    21300076: ayse_38
+    21300078: ayse_39
+    21300080: ayse_40
+    21300082: ayse_41
+    21300084: ayse_42
+    21300086: ayse_43
+    21300088: ayse_44
+    21300090: ayse_45
+    21300092: ayse_46
+    21300094: ayse_47
+    21300096: ayse_48
+    21300098: ayse_49
+    21300100: ayse_50
+    21300102: ayse_51
+    21300104: ayse_52
+    21300106: ayse_53
+    21300108: ayse_54
+    21300110: ayse_55
+    21300112: ayse_56
+    21300114: ayse_57
+    21300116: ayse_58
+    21300118: ayse_59
+    21300120: ayse_60
+    21300122: ayse_61
+    21300124: ayse_62
+    21300126: ayse_63
+    21300128: ayse_64
+    21300130: ayse_65
+    21300132: ayse_66
+    21300134: ayse_67
+    21300136: ayse_68
+    21300138: ayse_69
+    21300140: ayse_70
+    21300142: ayse_71
+    21300144: ayse_72
+    21300146: ayse_73
+    21300148: ayse_74
+    21300150: ayse_75
+    21300152: ayse_76
+    21300154: ayse_77
+    21300156: ayse_78
+    21300158: ayse_79
+    21300160: ayse_80
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ayse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1895.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1895.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1895.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1895.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_4
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1895.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_5
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1895.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_6
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1895.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_7
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1895.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_8
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1895.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1659.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1659.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1659.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_12
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1659.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_13
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1659.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_14
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1659.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_15
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1659.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_16
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1659.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_17
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1659.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1423.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1423.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_20
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1423.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_21
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1423.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_22
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1423.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_23
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1423.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_24
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1423.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_25
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1423.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_26
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1423.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1187.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_28
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1187.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_29
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1187.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_30
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1187.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_31
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1187.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_32
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 1187.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_33
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1187.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_34
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1187.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_35
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1187.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_37
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 951.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_38
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 951.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_39
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 951.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_40
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 951.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_41
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 951.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_42
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 951.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_43
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 951.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_44
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 951.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 715.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 715.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_47
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 715.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_48
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 715.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_49
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 715.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_50
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 715.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_51
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 715.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_52
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 715.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_53
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 715.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_55
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 479.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_56
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 479.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_57
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 479.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_58
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 479.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_59
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 479.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_60
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 479.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_61
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 479.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_62
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 479.1111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243.11111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_64
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 243.11111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_65
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 243.11111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_66
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 243.11111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_67
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 243.11111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_68
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 243.11111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_69
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 243.11111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_70
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 243.11111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_71
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 243.11111
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.1111145
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_73
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 7.1111145
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ayse_74
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 7.1111145
+        width: 421
+        height: 236.88889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
